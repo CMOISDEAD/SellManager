@@ -11,8 +11,8 @@ const App = () => {
   return (
     <Body>
       <Navbar />
-      <div className="container">Hola</div>
-      <Footer />
+      <div className="container">Lorem saepe repellendus quidem saepe neque Impedit laboriosam rem atque maiores placeat enim. 
+        Impedit minus laudantium dolores aperiam qui! In quae non similique saepe eaque quos esse nihil Quia omnis</div>
     </Body>
   );
 };
